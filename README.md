@@ -3,7 +3,8 @@
 #Intalação 
 - Abra seu CMD com a tecla do windows + R e coloque
 
-  cd LC_CD_AndreFrederick\n
+  cd LC_CD_AndreFrederick
+  
   pip install -r requirements.txt
 
 - Para instalar todas as dependencias e então instale o jupyter notebook cusando o CMD:
