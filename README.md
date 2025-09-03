@@ -7,11 +7,13 @@
   
   pip install -r requirements.txt
 
-- Para instalar todas as dependencias e então instale o jupyter notebook cusando o CMD:
+# Instalar o Jupyter Notebook
 
-  pip install notebook
+Se ainda não tiver o Jupyter Notebook instalado, use:
 
-- e rode após a intalação:
+pip install notebook
+
+e rode após a intalação:
 
   jupyter notebook
 
