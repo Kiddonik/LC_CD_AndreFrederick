@@ -19,9 +19,9 @@ e rode após a intalação:
 
 #Executar o projeto
 
--Abra no Jupyter notebook e rode o arquivo Desafios.ipynb
+- Abra no Jupyter notebook e rode o arquivo Desafios.ipynb
 
--clique em Run > Run All Cells
+- Clique em Run > Run All Cells
 
 
 
